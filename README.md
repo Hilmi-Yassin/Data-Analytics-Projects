@@ -1,2 +1,2 @@
 # Data-Analytics-Projects
-3 datasets will be chosen
+3 data sets will be chosen
